@@ -11,6 +11,7 @@ A collection of resources to use.
 * [Subreddits](#subreddits-information_source)
 * [Books](#books-books)
 * [Best Practice](#best-practice-eyeglasses)
+* [Project Ideas](#project-ideas-bulb)
 
 
 ## Free Stuff :moneybag:
@@ -112,3 +113,12 @@ A collection of resources to use.
 * [__10 interview Questions Every JavaScript Developer Should Know__ by _Eric Elliot_](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95#.qcy8ey1ky)
     - Very opinionated (and a lot of hating at certain inheritance in JS) but a good primer.
 
+## Project ideas :bulb:
+
+* [Martyr2's Mega Project Ideas List](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/)
+    - A list of project you can do, not specific to JavaScript but general programming.
+    - [A collection of projects created from this list](https://github.com/karan/Projects-Solutions/blob/master/README.md)
+* [The Internet Wishlist @ Twitter](https://twitter.com/theiwl) 
+    - "Hey someone should create this"
+* [Ideamachine.io](http://www.ideamachine.io/)
+    - "Hey someone should create this"
