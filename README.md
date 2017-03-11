@@ -23,7 +23,8 @@ A collection of resources to use.
     - A collection of free/discount stuff for student developers
 * [GitHub Developer Pack](https://education.github.com/pack)
     - A lot of free stuff for students, for example free **private** repos. ([GitLab](https://about.gitlab.com/) has private repos for free for everyone)
-
+* [free-programming-books @ GitHub](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
+    - A collection of all free programming books, ALL! (Not only JavaScript and frontend)
 
 ## Sites :computer:
 
@@ -49,6 +50,8 @@ A collection of resources to use.
 
 ## Twitter :bird:
 
+* [Jesper Orb](https://twitter.com/jesperorb)
+    - JavaScript noob, just retweets dumb stuff
 * [The Practical Dev](https://twitter.com/ThePracticalDev)
     - Mixed development stuff
 * [Ethan Marcotte](https://twitter.com/beep)
