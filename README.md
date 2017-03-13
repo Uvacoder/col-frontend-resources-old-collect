@@ -13,6 +13,7 @@ A collection of resources to use.
 * [Best Practice](#best-practice-eyeglasses)
 * [Project Ideas](#project-ideas-bulb)
 * [Tools and libraries](#tools-and-libraries)
+* [APIs](#apis-satellite)
 
 
 ## Free Stuff :moneybag:
@@ -131,3 +132,15 @@ A collection of resources to use.
 
 * [Vanilla List](http://www.vanillalist.com/)
     - Collection of vanilla JavaScript libraries
+
+## APIs :satellite:
+
+* [**Public APIs** by _toddmotto_ @ GitHub](https://github.com/toddmotto/public-apis)
+    - Collection of APIs
+* [**Public APIs** by _abhishekbanthia_ @ GitHub](https://github.com/abhishekbanthia/Public-APIs)
+    - Collection of public APIs
+* [Programmable Web API Directory](https://www.programmableweb.com/category/all/apis)
+    - Collection of public APIs
+* [API-katalogen](http://apikatalogen.se/)
+    - Collection of swedish APIs
+
