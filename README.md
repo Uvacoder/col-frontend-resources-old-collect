@@ -12,6 +12,7 @@ A collection of resources to use.
 * [Books](#books-books)
 * [Best Practice](#best-practice-eyeglasses)
 * [Project Ideas](#project-ideas-bulb)
+* [Tools and libraries](#tools-and-libraries)
 
 
 ## Free Stuff :moneybag:
@@ -125,3 +126,8 @@ A collection of resources to use.
     - "Hey someone should create this"
 * [Ideamachine.io](http://www.ideamachine.io/)
     - "Hey someone should create this"
+
+## Tools and libraries :hammer:
+
+* [Vanilla List](http://www.vanillalist.com/)
+    - Collection of vanilla JavaScript libraries
