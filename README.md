@@ -132,6 +132,10 @@ A collection of resources to use.
 
 * [Vanilla List](http://www.vanillalist.com/)
     - Collection of vanilla JavaScript libraries
+* [You Might Not Need jQuery](http://youmightnotneedjquery.com/)
+    - Comparison of jQuery functions and their vanilla counterpart
+* [You Don't Need JavaScript](https://github.com/you-dont-need/You-Dont-Need-Javascript)
+    - JS stuff you can do with HTMl/CSS
 
 ## APIs :satellite:
 
