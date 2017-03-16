@@ -74,6 +74,8 @@ A collection of resources to use.
     - JavaScript Developer and egghead tutorial guy
 * [JS Daily](https://twitter.com/JavaScriptDaily)
     - General JavaScript resources
+* [FrontEnd Daily](https://twitter.com/FrontEndDaily)
+    - General Frontend Resources
 * [Sindre Sorhus](https://twitter.com/sindresorhus)
     - JavaScript Developer
 
@@ -109,6 +111,8 @@ A collection of resources to use.
 
 ## Best practice :eyeglasses:
 
+#### JavaScript 
+
 * [__Code Conventions for the JavaScript Programming Language__ by _Douglas Crockford_](http://javascript.crockford.com/code.html)
     - Douglas Crockford own standard for writing JavaScript
 * [jstherightway.org](http://jstherightway.org/)
@@ -117,6 +121,12 @@ A collection of resources to use.
     - A collection of stuff to think about when writing JavaScript
 * [__10 interview Questions Every JavaScript Developer Should Know__ by _Eric Elliot_](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95#.qcy8ey1ky)
     - Very opinionated (and a lot of hating at certain inheritance in JS) but a good primer.
+
+#### CSS
+
+* [CSSWizardry - Code Smells in CSS (2012)](https://csswizardry.com/2012/11/code-smells-in-css/)
+* [CSSWizardry - Code Smells in CSS Revisited(2017)](https://csswizardry.com/2017/02/code-smells-in-css-revisited/)
+* [SitePoint - Golden Rules for Writing Clean CSS (2017)](https://www.sitepoint.com/golden-guidelines-for-writing-clean-css/)
 
 ## Project ideas :bulb:
 
