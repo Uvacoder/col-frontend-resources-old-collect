@@ -2,7 +2,7 @@
 
 A collection of resources to use.
 
-## Table of content :bookmark:
+## Table of contents :bookmark:
 
 * [Free Stuff](#free-stuff-moneybag)
 * [General resources](#general-resources-floppy-disk)
@@ -29,6 +29,8 @@ A collection of resources to use.
 * [free-programming-books @ GitHub](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
     - A collection of all free programming books, ALL! (Not only JavaScript and frontend)
 
+**[⬆ back to top](#table-of-contents-bookmark)**
+
 ## General resources :floppy_disk:
 
 * [__AWESOME__ by _sindresorhus@github_](https://github.com/sindresorhus/awesome)
@@ -38,6 +40,7 @@ A collection of resources to use.
 * [__Practical Color Theory For People Who Code__ by __tallys@github_](https://tallys.github.io/color-theory/)
     - An interactive guide to picking a color scheme.
 
+**[⬆ back to top](#table-of-contents-bookmark)**
 
 ## Sites :computer:
 
@@ -60,6 +63,7 @@ A collection of resources to use.
 * [Eric Elliot @ Medium](https://medium.com/@_ericelliott)
     - JavaScript Blog with focus on the more deeper stuff about Inhertiance, prototypes and those things.
 
+**[⬆ back to top](#table-of-contents-bookmark)**
 
 ## Twitter :bird:
 
@@ -90,6 +94,7 @@ A collection of resources to use.
 * [Sindre Sorhus](https://twitter.com/sindresorhus)
     - JavaScript Developer
 
+**[⬆ back to top](#table-of-contents-bookmark)**
 
 ## Tutorial sites and courses :open_book:
 
@@ -102,6 +107,8 @@ A collection of resources to use.
 * [Treehouse](https://teamtreehouse.com/)
     - Tutorials on many subjects, 7-day free trial
 
+**[⬆ back to top](#table-of-contents-bookmark)**
+
 ## Subreddits :information_source:
 
 * [reddit.com/r/webdev](https://www.reddit.com/r/webdev/)
@@ -113,12 +120,16 @@ A collection of resources to use.
 * [reddit.com/r/frontend](https://www.reddit.com/r/Frontend/)
     - General frontend
 
+**[⬆ back to top](#table-of-contents-bookmark)**
+
 ## Books :books:
 
 * [__You Don't Know JavaScript__ by _Kyle Simpson_](https://github.com/getify/You-Dont-Know-JS)
 * [__Eloquent JavaScript by__ by _Marijn Haverbeke_](http://eloquentjavascript.net/)
 * [__JavaScript: The Good Parts__ by _Douglas Crockford_](http://shop.oreilly.com/product/9780596517748.do)
 * [__JavaScript Design Patterns__ by _Addy Osmani_](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+
+**[⬆ back to top](#table-of-contents-bookmark)**
 
 ## Best practice :eyeglasses:
 
@@ -141,6 +152,8 @@ A collection of resources to use.
 * [CSSWizardry - Code Smells in CSS Revisited (2017)](https://csswizardry.com/2017/02/code-smells-in-css-revisited/)
 * [SitePoint - Golden Rules for Writing Clean CSS (2017)](https://www.sitepoint.com/golden-guidelines-for-writing-clean-css/)
 
+**[⬆ back to top](#table-of-contents-bookmark)**
+
 ## Project ideas :bulb:
 
 * [Martyr2's Mega Project Ideas List](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/)
@@ -151,6 +164,8 @@ A collection of resources to use.
 * [Ideamachine.io](http://www.ideamachine.io/)
     - "Hey someone should create this"
 
+**[⬆ back to top](#table-of-contents-bookmark)**
+
 ## Tools and libraries :hammer:
 
 * [Vanilla List](http://www.vanillalist.com/)
@@ -159,6 +174,8 @@ A collection of resources to use.
     - Comparison of jQuery functions and their vanilla counterpart
 * [You Don't Need JavaScript](https://github.com/you-dont-need/You-Dont-Need-Javascript)
     - JS stuff you can do with HTMl/CSS
+
+**[⬆ back to top](#table-of-contents-bookmark)**
 
 ## APIs :satellite:
 
@@ -170,4 +187,6 @@ A collection of resources to use.
     - Collection of public APIs
 * [API-katalogen](http://apikatalogen.se/)
     - Collection of swedish APIs
+
+**[⬆ back to top](#table-of-contents-bookmark)**
 
