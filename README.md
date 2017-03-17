@@ -1,10 +1,11 @@
 # :sparkles: Frontend Resources :sparkles:
 
-A collection of resources to use.   
+A collection of resources to use.
 
 ## Table of content :bookmark:
 
 * [Free Stuff](#free-stuff-moneybag)
+* [General resources](#general-resources-floppy-disk)
 * [Sites](#sites-computer)
 * [Twitter](#twitter-bird)
 * [Tutorial sites and courses](#tutorial-sites-and-courses-open_book)
@@ -27,6 +28,16 @@ A collection of resources to use.
     - A lot of free stuff for students, for example free **private** repos. ([GitLab](https://about.gitlab.com/) has private repos for free for everyone)
 * [free-programming-books @ GitHub](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
     - A collection of all free programming books, ALL! (Not only JavaScript and frontend)
+
+## General resources :floppy_disk:
+
+* [__AWESOME__ by _sindresorhus@github_](https://github.com/sindresorhus/awesome)
+    - _A curated list of awesome lists_, great collection of all kinds of resources in all kinds of fields.
+* [__Web Developer Roadmap__ by _kamranahmedse@github_](https://github.com/kamranahmedse/developer-roadmap)
+    - A diagram of which paths to take when trying to become a frontend/backend/fullstack developer
+* [__Practical Color Theory For People Who Code__ by __tallys@github_](https://tallys.github.io/color-theory/)
+    - An interactive guide to picking a color scheme.
+
 
 ## Sites :computer:
 
