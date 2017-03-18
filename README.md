@@ -1,6 +1,4 @@
-# :sparkles: Frontend Resources :sparkles:
-
-A collection of resources to use.
+<img src="images/frontend.png" alt="Frontend Logo">
 
 ## Table of contents :bookmark:
 
