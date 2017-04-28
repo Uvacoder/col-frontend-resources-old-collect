@@ -1,4 +1,4 @@
-<img src="images/frontend.png" alt="Frontend Logo">
+# Frontend-resources :computer:
 
 ## Table of contents :bookmark:
 
